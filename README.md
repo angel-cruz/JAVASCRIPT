@@ -11,6 +11,7 @@
 - Symbol (new to ES6)
 
 ## typeof operator:
+'''
 
 var a;
 typeof a;     // "undefined"
@@ -29,5 +30,7 @@ typeof a;     // "object"--weird, bug
 
 a = undefined;
 typeof a;     // "undefined"
+
+'''
 
 * typeof null is an interesting case because it errantly returns "object" when you'd expect it to return "null" *
