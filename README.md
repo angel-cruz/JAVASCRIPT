@@ -1,7 +1,7 @@
 # JAVASCRIPT
-JavaScript ES6 Notes &amp; applications
+###JavaScript ES6 Notes &amp; applications
 
-Values & Types:
+##Values & Types:
 
 - String
 - number
@@ -10,7 +10,7 @@ Values & Types:
 - object
 - Symbol (new to ES6)
 
-typeof operator:
+##typeof operator:
 
 var a;
 typeof a;     // "undefined"
